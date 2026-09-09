@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://portal-risk-lab.brawny-rhea-1644.chatgpt.site'),
+  metadataBase: new URL('https://portal-risk-lab.romanov6229.chatgpt.site'),
   title: 'Лаборатория нестабильных порталов',
   description: 'Оперативный контроль магических порталов, рисков и действий лаборатории.',
   openGraph: {
